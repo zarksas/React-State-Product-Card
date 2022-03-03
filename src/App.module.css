@@ -1,0 +1,67 @@
+.main {
+    margin: auto;
+    width: 400px;
+    height: 650px;
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.img img {
+    width: 400px;
+}
+
+.detal {
+    font-size: 16px;
+    background-color: #fff;
+    color: blue;
+    height: 40px;
+    width: 100px;
+    margin-left: 280px;
+    border: 2px solid blue;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.line {
+    margin: auto;
+    border-bottom: 2px solid grey;
+    width: 380px;
+    text-align: center;
+}
+
+.p {
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.lorem {
+    font-size: 18px;
+}
+
+
+
+.card {
+    cursor: pointer;
+    font-size: 16px;
+    width: 180px;
+    height: 40px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
+
+.outputCard {
+    margin-top: 20px;
+    color: red;
+    cursor: pointer;
+}
+
+.window {
+    margin-left: 250px;
+    cursor: pointer;
+}
+
+.window:hover {
+    color: red;
+}
